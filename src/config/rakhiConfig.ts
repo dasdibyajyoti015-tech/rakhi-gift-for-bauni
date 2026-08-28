@@ -80,7 +80,7 @@ export const defaultRakhiConfig: RakhiConfig = {
         "Obviously you (100%)",
         "Me (a complete saint 😇)",
         "A rendom convo",
-        "You not finding a good girlfrien for me"
+        "You not finding a good girlfriend for me"
       ],
       correctAnswer: 3,
       explanation: "Its your job to protect me from those chudails out and find a good bhabhi.",
