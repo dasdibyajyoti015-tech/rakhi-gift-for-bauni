@@ -26,8 +26,8 @@ export const defaultRakhiConfig: RakhiConfig = {
   // ---------------------------------------------------------------------------
   // 1. SIBLING DETAILS & SECRET CODE
   // ---------------------------------------------------------------------------
-  sisterName: "Baishali",
-  nickname: "Bauni",
+  sisterName: "Bauni",
+  nickname: "Baishali",
   siblingName: "Shivam",
   relationship: "brother", // "brother", "sister", or "sibling"
 
@@ -79,7 +79,7 @@ export const defaultRakhiConfig: RakhiConfig = {
       options: [
         "Obviously you (100%)",
         "Me (a complete saint 😇)",
-        "The TV Remote",
+        "A rendom convo",
         "You not finding a good girlfrien for me"
       ],
       correctAnswer: 3,
@@ -117,17 +117,17 @@ export const defaultRakhiConfig: RakhiConfig = {
     },
     {
       id: "q5",
-      question: "Deep down, who is Mom and Dad's favorite child?",
+      question: "If we weren't related by blood, then how did you become my sister?",
       options: [
-        "Me, obviously 👑",
-        "You, obviously 👸",
-        "The family dog / WiFi router 🐶",
-        "Whoever washed the dishes today 🍽️"
+        "College decided it for us 🎓",
+        "You adopted me 😂",
+        "We just chose each other as siblings ❤️",
+        "I had no choice in the matter 😭"
       ],
-      correctAnswer: 3,
-      explanation: "The golden rule of Indian households!",
-      reactionCorrect: "Haha truth! Chores define parental love 😂",
-      reactionWrong: "Whoever did the chores holds the crown for 24 hours! 👑"
+      correctAnswer: 2,
+      explanation: "Exactly! We may not share blood, but somewhere along the way, we chose to be family. ❤️",
+      reactionCorrect: "That's my sister! Choice made, no take-backs. 🫶😂",
+      reactionWrong: "Wrong answer! Apparently you forgot who chose whom. 😂❤️"
     }
   ],
 
