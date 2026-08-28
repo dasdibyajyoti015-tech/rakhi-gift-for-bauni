@@ -421,7 +421,7 @@ export const defaultRakhiConfig: RakhiConfig = {
       "Stay the same amazing, crazy, caring person you are. And remember, no matter where life takes us, your annoying brother is always going to be somewhere around to support you, roast you, and occasionally disturb you. 😌"
     ],
     closing: "With lots of love, laughter, and sibling-level annoyance,",
-    signature: "Rahul ❤️",
+    signature: "Shivam ❤️",
     postscript: "P.S. College may be over, but unfortunately for you, your lifetime membership as my sister has already been activated. No cancellations allowed. 😂"
   },
 
