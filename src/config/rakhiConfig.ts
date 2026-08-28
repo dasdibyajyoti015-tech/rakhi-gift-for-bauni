@@ -226,7 +226,7 @@ export const defaultRakhiConfig: RakhiConfig = {
     {
       id: "m1",
       year: "2026",
-      title: "And Somehow, We Became Sisters 🫶",
+      title: "And Somehow, You Became My Sister 🫶",
       description: "College gave me a lot of things, but meeting you was definitely one of the best accidents.",
       image: "images/rakhi-2026-1.jpg",
       location: "College",
@@ -336,7 +336,7 @@ export const defaultRakhiConfig: RakhiConfig = {
       caption: "Different days, different photos, same person I can always count on.",
       image: "images/rakhi-2026-6.jpg",
       date: "2026",
-      category: "Sisterhood"
+      category: "Brother & Sister""
     }
   ],
 
@@ -348,7 +348,7 @@ export const defaultRakhiConfig: RakhiConfig = {
       id: "b1",
       boxNumber: 1,
       title: "A College Memory 🎓",
-      message: "Who knew that somewhere between all those college conversations, random plans, and endless laughs, I would end up finding a sister for life? 😂",
+      message: "Who knew that somewhere between all those college conversations, random plans, and endless laughs, I'd end up finding a sister for life? 😂❤️",
       subMessage: "Secret unlocked: The best bonds are sometimes the unexpected ones. ❤️",
       colorGradient: "from-pink-400 to-rose-500"
     },
@@ -371,9 +371,9 @@ export const defaultRakhiConfig: RakhiConfig = {
     {
       id: "b4",
       boxNumber: 4,
-      title: "Forever Sister Pact 🤝",
-      message: "College may be over, but the sisterhood isn't. No matter how busy life gets, you can always count on me for a conversation, a laugh, or just someone to listen.",
-      subMessage: "Sister status: Permanent. 🧿",
+      title: "Brother-Sister Pact 🤝",
+      message: "College may be over, but this bond isn't. No matter how busy life gets, you can always count on your brother for a conversation, a laugh, some unnecessary teasing, or just someone to have your back.",
+      subMessage: "Brother by choice. Annoying by default. Permanent by destiny. ❤️",
       colorGradient: "from-emerald-400 to-teal-500"
     },
     {
@@ -388,7 +388,7 @@ export const defaultRakhiConfig: RakhiConfig = {
       id: "b6",
       boxNumber: 6,
       title: "⭐ The Golden Surprise Box",
-      message: "We didn't grow up together, we don't share the same home, and we aren't related by blood. But somewhere along the way, you became family—and that's something I'll always be grateful for. Happy Rakhi, sister! ❤️🧿",
+      message: "We didn't grow up together, we don't share the same home, and we aren't related by blood. But somewhere along the way, you became family—and that's something I'll always be grateful for. Happy Rakhi, Bauni! ❤️🧿",
       subMessage: "Ready for the big reveal? Head to the next step! 💌",
       isSpecial: true,
       colorGradient: "from-yellow-400 via-amber-400 to-red-500"
@@ -404,7 +404,7 @@ export const defaultRakhiConfig: RakhiConfig = {
     "Even when you annoy me, I wouldn't trade this crazy bond for anything. 😂",
     "I'm genuinely proud of the person you've become, even if I don't always say it.",
     "Some of my favorite memories from college became better simply because you were part of them.",
-    "No matter how much life changes after college, I hope you always know that you'll have a sister in me. ❤️"
+    "No matter how much life changes after college, I hope you always know that you'll have a brother in me. ❤️"
   ],
   
   // ---------------------------------------------------------------------------
@@ -412,7 +412,7 @@ export const defaultRakhiConfig: RakhiConfig = {
   // ---------------------------------------------------------------------------
   letter: {
     date: "August 2026 • Raksha Bandhan",
-    salutation: "Dearest Sister,",
+    salutation: "Dear Bauni,",
     paragraphs: [
       "It's funny how life works. We met in college without knowing that one day I'd be calling you my sister. Somewhere between the random conversations, countless laughs, teasing, and all the memories we made, our friendship became something much more special.",
       "Thank you for being the kind of person who can make an ordinary day memorable, who can roast me without mercy, and who somehow earned permanent sister privileges without ever officially applying for them. 😂",
@@ -455,7 +455,7 @@ export const defaultRakhiConfig: RakhiConfig = {
     giftNote: "Screenshot this card and send it to me to officially claim your sister voucher! 📲❤️",
     hugButtonText: "Send a Digital Hug Back 🤗",
     hugResponseText: "Hug received! Distance doesn't matter when the sister bond is this strong. Happy Raksha Bandhan! 🌸✨",
-    signature: "Your Brother by Choice, Rahul ❤️"
+    signature: "Your Brother by Choice, Shivam ❤️"
   },
   
   // ---------------------------------------------------------------------------
