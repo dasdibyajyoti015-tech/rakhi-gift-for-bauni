@@ -336,7 +336,7 @@ export const defaultRakhiConfig: RakhiConfig = {
       caption: "Different days, different photos, same person I can always count on.",
       image: "images/rakhi-2026-6.jpg",
       date: "2026",
-      category: "Brother & Sister""
+      category: "Brother & Sister"
     }
   ],
 
