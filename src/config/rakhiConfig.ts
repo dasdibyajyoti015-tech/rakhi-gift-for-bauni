@@ -505,7 +505,7 @@ export const defaultRakhiConfig: RakhiConfig = {
   music: {
     enabled: true,
     src: "audio/rakhi.mp3",
-    volume: 0.70,
+    volume: 70,
     title: "Our Rakhi Memory Melody"
   }
 };
